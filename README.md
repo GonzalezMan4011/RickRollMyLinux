@@ -1,2 +1,2 @@
-# RickRoll_KDE_Linux
-This is a application that does the bare minimum, this is a application that will rick-roll you everytime you open the app. This is the Linux version of the app that utilizes the Qt framework to function.
+# RickRollMyLinux
+A test app that will rick-roll you everytime you run the app on a Linux device. That's it. Qt is required.
